@@ -23,8 +23,18 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 - Step 3: First, executed the SQL query to create and generate the Customer table, as shown below.
 
 
+ <img width="958" height="275" alt="Image" src="https://github.com/user-attachments/assets/5e1c668f-04c8-4133-ad59-b4e39ca3c1e0" />
 
 - Step 4: Next, executed the SQL query to create and populate the Accounts table. Finally, executed the SQL query to create and populate the Transactions table, completing the database setup.
+  
+
+<img width="705" height="164" alt="Image" src="https://github.com/user-attachments/assets/221b0077-e633-4bf1-b7be-bf347c6bb835" />
+
+
+
+<img width="646" height="313" alt="Image" src="https://github.com/user-attachments/assets/b1f140ab-aeb8-4f5c-bad8-822af171ada6" />
+
+
 - Step 5: Using the New Query option in SSMS, used the INSERT INTO statement to add customer data to the Customer table and account data to the Accounts table.
 - Step 6: Similarly, created the Transactions table and used the INSERT INTO statement to insert the required transaction data. After executing the query, verified that the table was successfully created and populated with 10,000 transaction records.
 
