@@ -17,7 +17,13 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 
 - Step 1: Generated and structured a banking dataset using Perplexity as the data source for a Power BI analytics project.
 - Step 2: Using SQL Server Management Studio (SSMS), created a new database named Power_BI2. Copied and executed the SQL code generated with the help of Perplexity to create the required database structure and populate the tables with banking data.
+
+  <img width="440" height="139" alt="Image" src="https://github.com/user-attachments/assets/dc27fe37-473f-4d6c-9bc9-cfcc28c19c1c" />
+
 - Step 3: First, executed the SQL query to create and generate the Customer table, as shown below.
+
+
+
 - Step 4: Next, executed the SQL query to create and populate the Accounts table. Finally, executed the SQL query to create and populate the Transactions table, completing the database setup.
 - Step 5: Using the New Query option in SSMS, used the INSERT INTO statement to add customer data to the Customer table and account data to the Accounts table.
 - Step 6: Similarly, created the Transactions table and used the INSERT INTO statement to insert the required transaction data. After executing the query, verified that the table was successfully created and populated with 10,000 transaction records.
