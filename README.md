@@ -36,5 +36,9 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 
 
 - Step 5: Using the New Query option in SSMS, used the INSERT INTO statement to add customer data to the Customer table and account data to the Accounts table.
+
+<img width="771" height="182" alt="Image" src="https://github.com/user-attachments/assets/ac89b947-fbb1-4cb4-8f3c-114cf8a7a3ec" />
+
+<img width="881" height="165" alt="Image" src="https://github.com/user-attachments/assets/65c2e40f-d2d1-4496-98bf-1f45ca76ee98" />
 - Step 6: Similarly, created the Transactions table and used the INSERT INTO statement to insert the required transaction data. After executing the query, verified that the table was successfully created and populated with 10,000 transaction records.
 
