@@ -44,9 +44,11 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 
 - Step 6: Similarly, created the Transactions table and used the INSERT INTO statement to insert the required transaction data. After executing the query, verified that the table was successfully created and populated with 10,000 transaction records.
 
-<img width="1084" height="589" alt="Image" src="https://github.com/user-attachments/assets/3c6ec599-4775-4077-b3c5-9a55db0f58d8" />
 
-<img width="934" height="487" alt="Image" src="https://github.com/user-attachments/assets/361e9597-5bbd-411b-b228-518998d77115" />
 
 <img width="1071" height="541" alt="Image" src="https://github.com/user-attachments/assets/0648f75a-a2f0-4899-983e-daf6f19d63e0" />
 
+
+<img width="934" height="487" alt="Image" src="https://github.com/user-attachments/assets/361e9597-5bbd-411b-b228-518998d77115" />
+
+<img width="1084" height="589" alt="Image" src="https://github.com/user-attachments/assets/3c6ec599-4775-4077-b3c5-9a55db0f58d8" />
