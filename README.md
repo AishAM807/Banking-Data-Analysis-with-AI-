@@ -112,6 +112,12 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 
 <img width="1089" height="589" alt="Image" src="https://github.com/user-attachments/assets/273210a7-3252-404c-8008-1e6de286fb31" />
 
+- Step 18: Successfully imported the consolidated data into Power BI Desktop for further transformation, analysis, and visualization.
+- Step 19: Connected Power BI Desktop to SQL Server as the data source and successfully imported the consolidated dataset for analysis
+- Step 20: Copied the final SQL query into Perplexity and used it as a reference to identify relevant KPIs and develop the required DAX measures for the Power BI report.
+- Step 21:Loaded the data into Power BI Desktop and performed data transformation and cleaning to ensure the dataset was accurate, consistent, and ready for analysis.
+- Step 22: Using Power Query, updated the data types of the relevant columns. 
+- Step 23: An error occurred while changing the data type of certain date columns. To resolve the issue, the Using Locale option in Power Query was used to correctly interpret the date values and apply the English (United States) date format. The same process was followed for all other date columns to successfully convert the data type from Text to Date.
 
 
 
