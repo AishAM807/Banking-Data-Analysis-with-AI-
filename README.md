@@ -95,16 +95,24 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 <img width="1085" height="556" alt="Image" src="https://github.com/user-attachments/assets/fa6ca603-72eb-43f1-b665-145715322fdd" />
   
 - Step 16: The same process was followed to retrieve the column names from the Customer and Account tables, as shown below.
-- Step 17: The SQL query generated with the assistance of Perplexity was executed in SQL Server Management Studio (SSMS) to merge the Customer, Account, and Transaction tables into a single table. The execution successfully impacted 10,000 records, confirming that the three tables were combined successfully.
 
-
-
+  
 
 <img width="747" height="212" alt="Image" src="https://github.com/user-attachments/assets/02b611a1-3f34-453b-828b-6be327462c80" />
-<img width="447" height="332" alt="Image" src="https://github.com/user-attachments/assets/72ffb3dd-7eea-4a16-8b2e-d8865fb5ca77" />
-<img width="1089" height="589" alt="Image" src="https://github.com/user-attachments/assets/273210a7-3252-404c-8008-1e6de286fb31" />
+
+
 
 <img width="664" height="285" alt="Image" src="https://github.com/user-attachments/assets/2c5d06fc-4ccd-45c0-a03b-14b5bf9d01be" />
+
+
+- Step 17: The SQL query generated with the assistance of Perplexity was executed in SQL Server Management Studio (SSMS) to merge the Customer, Account, and Transaction tables into a single table. The execution successfully impacted 10,000 records, confirming that the three tables were combined successfully.
+
+<img width="447" height="332" alt="Image" src="https://github.com/user-attachments/assets/72ffb3dd-7eea-4a16-8b2e-d8865fb5ca77" />
+
+
+<img width="1089" height="589" alt="Image" src="https://github.com/user-attachments/assets/273210a7-3252-404c-8008-1e6de286fb31" />
+
+
 
 
 
