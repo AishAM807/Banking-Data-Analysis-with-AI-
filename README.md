@@ -52,3 +52,15 @@ The analysis aims to provide stakeholders with a clear view of banking operation
 <img width="934" height="487" alt="Image" src="https://github.com/user-attachments/assets/361e9597-5bbd-411b-b228-518998d77115" />
 
 <img width="1084" height="589" alt="Image" src="https://github.com/user-attachments/assets/3c6ec599-4775-4077-b3c5-9a55db0f58d8" />
+
+
+- Step 7: Identified inconsistencies in the data formats across the Customer, Account, and Transaction tables.
+- Step 8: Used Perplexity to refine the SQL query and update the date column format.
+- Step 9: Copied and executed the updated SQL code from Perplexity to update the date column in the Account table.
+- Step 10: As shown in the image below, the date column has been successfully updated in the Account table.
+- Step 11: Similarly, applied the updated SQL query to modify the date column in the Customer table, as illustrated below.
+- Step 12: As demonstrated below, the date column in the Customer table has been successfully updated.
+- Step 13: As shown below, the date column has been successfully updated.
+- Step 14: To combine the three tables into a single dataset, an SQL query was obtained using Perplexity. Before creating the query, all column names from the Transaction table were retrieved using SQL to ensure that the required fields were included.
+- Step 15: The same process was followed to retrieve the column names from the Customer and Account tables, as shown below.
+- Step 16: The SQL query generated with the assistance of Perplexity was executed in SQL Server Management Studio (SSMS) to merge the Customer, Account, and Transaction tables into a single table. The execution successfully impacted 10,000 records, confirming that the three tables were combined successfully.
